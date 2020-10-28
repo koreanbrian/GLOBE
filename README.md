@@ -1,2 +1,2 @@
 # GLOBE
-globe korea website (wordpress)
+making a website for GLOBE KOREA
